@@ -26,10 +26,13 @@ XGBoost (model_xgb.pkl)
 
 🧠 Models Used:
 
-Model	Description
-Linear Regression (LR)	Simple baseline model
-Random Forest (RF)	Handles non-linearity and interactions well
-XGBoost (XGB)	Best performing gradient boosting algorithm
+| Model                      | Description                                 |
+| -------------------------- | ------------------------------------------- |
+| **Linear Regression (LR)** | Simple baseline model                       |
+| **Random Forest (RF)**     | Handles non-linearity and interactions well |
+| **XGBoost (XGB)**          | Best performing gradient boosting algorithm |
+
+
 🖥️ How Prediction Works
 
 User enters employee information (e.g., age, salary, experience, satisfaction score, etc.)
